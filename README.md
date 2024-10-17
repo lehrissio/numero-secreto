@@ -1,11 +1,11 @@
-<h1 align="center">Speech Recognition 🎙️</h1>
+<h1 align="center">🎙️ Numero Secreto</h1>
 <p align="center"> Projeto desenvolvido durante a <a href="https://cursos.alura.com.br/formacao-javascript-front-end-v687029">Formação de Javascript</a> da plataforma de estudos Alura, onde foi colocado em prática conhecimentos sobre Speech Recognition e Java Script para a criação de um jogo em que, através do reconhecimento de voz, o usuário irá falar números até acertar o número secreto! 💻🎙️✨ </p>
 <p align="center"> O jogo irá dar dicas até que o usuário acerte, e então ele poderá jogar novamente ✅. E caso seja falado "GAME OVER" a aplicação irá para um tela vermelha 🔴 </p>
 <br>
 <br>
 <div align="center">
   <a target="_blank" href="https://numero-secreto-lime-eta.vercel.app/">
-    <img src="https://github.com/user-attachments/assets/91840589-3d49-4b28-97a2-cf2972ccde86">    
+    <img src="https://github.com/user-attachments/assets/0c81b58f-b8e2-4374-a8bb-b4d9170515d9">
   </a>
 </div>
 <br>
